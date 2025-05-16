@@ -27,3 +27,7 @@ $myVar = "Hello, world!";
   description = "General description of the variable."
 }
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [X] Introduce myself to the world
